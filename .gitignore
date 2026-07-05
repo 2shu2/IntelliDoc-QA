@@ -20,5 +20,5 @@ env/
 *.tmp
 .DS_Store
 
-# 演示视频（体积过大，建议上传 B站/YouTube 后链接）
-*.mp4
+# 演示视频通过 Git LFS 管理
+# *.mp4 — 已启用 LFS 跟踪
