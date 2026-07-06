@@ -6,7 +6,9 @@
 
 ## 演示
 
-<video src="./demo.mp4" controls width="100%"></video>
+[![演示视频](demo-poster.png)](demo.mp4)
+
+> 👆 点击上图观看完整演示视频
 
 ## 功能特性
 
