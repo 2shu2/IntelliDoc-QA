@@ -4,6 +4,10 @@
 
 上传 PDF / Word / TXT / HTML 文档，自动向量化入库，自然语言提问即可从文档中检索内容并生成回答，支持多轮对话。前端采用 **React + Tailwind CSS** 实现 cinematic glass-morphism 风格界面，后端基于 **FastAPI** 提供 RESTful API。
 
+## 演示
+
+<video src="./demo.mp4" controls width="100%"></video>
+
 ## 功能特性
 
 - **多格式文档加载**：PDF / Word / TXT / HTML，按后缀自动选择加载器
